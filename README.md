@@ -14,8 +14,8 @@
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
+| Student Name | CCID      | DETAILS |
+| ------------ | --------- | ------------------|
 | `Mohammed Huzaifa`    | `mhuzaif2` | `Discussed the step 10 of the lab description`
 | `Ammaar Ayub`    | `ammaaray` | `Discussed on how to add references and resources to README.md`
 
